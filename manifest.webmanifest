@@ -1,6 +1,6 @@
 {
-  "name": "Elevor360D arcadia Cruise Companion",
-  "short_name": "arcadia Guide",
+  "name": "Elevor360D Arcadia Cruise Companion",
+  "short_name": "Arcadia Guide",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
