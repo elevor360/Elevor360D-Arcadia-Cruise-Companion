@@ -1,6 +1,6 @@
 {
-  "title": "Arcadia Passenger Information — V1",
-  "updated": "2026-10-19 — initial Arcadia release",
+  "title": "Arcadia Passenger Information — Final Customer Release",
+  "updated": "2026-10-19 — final customer release",
   "sections": [
     {
       "heading": "Welcome aboard Arcadia",
@@ -41,6 +41,70 @@
     {
       "heading": "Information and advertisements",
       "body": "The owner can update information.json and advert-settings.json in the GitHub Pages repository. New information requires internet access to refresh; cached information may remain available offline."
+    },
+    {
+      "heading": "Preparing for embarkation",
+      "body": "Check the current boarding time in your travel documents, and keep passports, medication and essential items in hand luggage. Complete any required online check-in before travelling. Follow port and crew instructions."
+    },
+    {
+      "heading": "Finding your way around",
+      "body": "Use the ship’s current deck plan and onboard signs to confirm restaurant and facility locations. Save your cabin number and useful routes in the app; locations and access can change during a voyage."
+    },
+    {
+      "heading": "Dining reservations and dietary needs",
+      "body": "Check current dining arrangements and opening hours onboard. Ask the dining team about dietary requirements and allergies; do not rely solely on this independent guide for allergen advice. Speciality restaurants may require booking or additional payment."
+    },
+    {
+      "heading": "A practical sea-day routine",
+      "body": "Check the daily onboard programme, choose any shows or activities that need booking, and allow time for meals and relaxation. Save plans in My Cruise and use My Day for a quick overview."
+    },
+    {
+      "heading": "Excursions and independent port visits",
+      "body": "Confirm all-aboard time with the ship, not only the itinerary. Take the required travel documents, check whether tenders or shuttles operate, and plan a return margin. Local and ship time may differ."
+    },
+    {
+      "heading": "Onboard spending and drinks",
+      "body": "Use the spending and drinks trackers for your own estimates only. They do not connect to your onboard account or verify package allowances. Check your official account and package terms for actual charges."
+    },
+    {
+      "heading": "Disembarkation day",
+      "body": "Read the ship’s departure instructions for luggage collection, settlement of your onboard account and your assigned departure arrangements. Keep travel documents and essentials accessible."
+    },
+    {
+      "heading": "Keeping records safe",
+      "body": "Your saved plans, packing checklist and trackers are stored on this device and in this browser. Use Settings → Backup before replacing a device, clearing browser data or reinstalling. Restoring a backup replaces current app records."
+    },
+    {
+      "heading": "Updates and internet connection",
+      "body": "The app works offline after its core files are cached, but the publisher’s information and advertisements can only refresh when connected. Check the latest official P&O Cruises notices for schedules, prices and ship changes."
+    },
+    {
+      "heading": "Your final pre-cruise check",
+      "body": "Before leaving, check the latest boarding instructions, travel documents, destination entry rules, luggage labels, essential medicines, travel insurance and any changes to your itinerary. Keep passports and medication in hand luggage."
+    },
+    {
+      "heading": "Onboard programme and restaurant times",
+      "body": "Entertainment, restaurant opening hours, charges and booking requirements may change during your cruise. Check the daily programme and ask the crew for current arrangements."
+    },
+    {
+      "heading": "Onboard account and personal budget",
+      "body": "The drinks and spending trackers are personal estimates only, not a live connection to your onboard account. Confirm actual prices, packages, gratuities and final balances with the ship."
+    },
+    {
+      "heading": "Before going ashore",
+      "body": "Confirm the ship’s all-aboard time and whether it is shown in ship time or local time. Check your documents, any tender arrangements and your return transport. Leave sufficient time to return."
+    },
+    {
+      "heading": "Last day and disembarkation",
+      "body": "Follow the latest ship instructions about luggage, your assigned disembarkation time, travel arrangements and your onboard account. Keep travel documents and essentials with you."
+    },
+    {
+      "heading": "Your data and privacy",
+      "body": "Plans, cabin notes, packing items and spending entries are saved locally in your browser. They are not sent to the app publisher. Make a backup before clearing browser data or moving to another device. Restoring a backup can replace current saved entries."
+    },
+    {
+      "heading": "About this independent guide",
+      "body": "Elevor360D Arcadia Cruise Companion is an independent unofficial guide, not operated or endorsed by P&O Cruises. For safety, accessibility, schedules, deck layouts, venue availability and prices, always follow official cruise documents and crew instructions."
     }
   ]
 }
