@@ -1,0 +1,46 @@
+{
+  "title": "Arcadia Passenger Information — V1",
+  "updated": "2026-10-19 — initial Arcadia release",
+  "sections": [
+    {
+      "heading": "Welcome aboard Arcadia",
+      "body": "Independent Elevor360D guide. Not affiliated with P&O Cruises. Arcadia is marketed as an adults-only ship; check the latest operator terms for your sailing."
+    },
+    {
+      "heading": "Official ship and deck plans",
+      "body": "P&O Cruises Arcadia ship information and interactive deck plans (internet required): https://www.pocruises.com/cruise-ships/arcadia/overview\nUse current ship signage and crew advice for final venue locations."
+    },
+    {
+      "heading": "Deck reference",
+      "body": "Deck 1 G; Deck 2 F; Deck 3 Promenade; Deck 4 E; Deck 5 D; Deck 6 C; Deck 7 B; Deck 8 A; Deck 9 Lido; Deck 10 Sun; Deck 11 Sky. These deck names are orientation references, not a numbered cabin map."
+    },
+    {
+      "heading": "Dining on Arcadia",
+      "body": "Meridian Restaurant, Belvedere Buffet and Neptune Grill offer dining choices. Ocean Grill and Sindhu are speciality options with potential additional charges. Check current opening times and booking requirements."
+    },
+    {
+      "heading": "Entertainment and relaxation",
+      "body": "The Palladium hosts live performances; The Screening Room offers films. The Globe, Crow’s Nest and other lounges may have activities. Check the daily programme."
+    },
+    {
+      "heading": "Before travelling",
+      "body": "Check your passport and any destination entry requirements, travel insurance, boarding documents, luggage labels, medication and embarkation time. Operator guidance takes priority."
+    },
+    {
+      "heading": "First day onboard",
+      "body": "Follow crew directions and safety instructions, locate your cabin and muster information, check restaurant bookings and review the daily programme."
+    },
+    {
+      "heading": "Port days",
+      "body": "Check the all-aboard time, any shuttle or tender arrangements, required documents and the return route. Allow extra time; ship times and local times can differ."
+    },
+    {
+      "heading": "Using the app offline",
+      "body": "Open the app online at least once after installing to cache its core files. Your planner, packing and spending records stay in this browser. Back up before switching devices or clearing browser data."
+    },
+    {
+      "heading": "Information and advertisements",
+      "body": "The owner can update information.json and advert-settings.json in the GitHub Pages repository. New information requires internet access to refresh; cached information may remain available offline."
+    }
+  ]
+}

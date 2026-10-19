@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Meridian Restaurant",
+    "category": "Dining",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Main dining room with Freedom and Club Dining; confirm arrangements onboard."
+  },
+  {
+    "name": "Belvedere Buffet",
+    "category": "Dining",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Casual buffet dining; hours and service may change."
+  },
+  {
+    "name": "Neptune Grill",
+    "category": "Dining",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Poolside casual food including pizza."
+  },
+  {
+    "name": "Ocean Grill",
+    "category": "Dining",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Marco Pierre White speciality restaurant; extra charges may apply."
+  },
+  {
+    "name": "Sindhu",
+    "category": "Dining",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Indian-British fusion speciality restaurant; booking and supplements may apply."
+  },
+  {
+    "name": "Crow’s Nest",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Observation lounge with sea views."
+  },
+  {
+    "name": "The Piano Bar",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Intimate lounge bar."
+  },
+  {
+    "name": "East Bar",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Lively bar; check current programme."
+  },
+  {
+    "name": "Spinnaker",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Nautical-themed lounge bar."
+  },
+  {
+    "name": "Intermezzo",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Contemporary bar and social space."
+  },
+  {
+    "name": "The Globe",
+    "category": "Entertainment",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Live music and other events; check daily programme."
+  },
+  {
+    "name": "The Rising Sun",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Pub-style venue."
+  },
+  {
+    "name": "Aquarius Bar",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Poolside refreshments."
+  },
+  {
+    "name": "Neptune’s Bar",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Poolside bar."
+  },
+  {
+    "name": "Caffè Vivo",
+    "category": "Bars",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Coffee bar."
+  },
+  {
+    "name": "The Palladium",
+    "category": "Entertainment",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Three-tier theatre hosting live shows."
+  },
+  {
+    "name": "The Screening Room",
+    "category": "Entertainment",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Small cinema; screening times vary."
+  },
+  {
+    "name": "Monte Carlo Casino",
+    "category": "Entertainment",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Casino and gaming; age and access restrictions apply."
+  },
+  {
+    "name": "Oasis Spa",
+    "category": "Facilities",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Spa and treatments; additional charges may apply."
+  },
+  {
+    "name": "Neptune Pool",
+    "category": "Facilities",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Swimming pool; check opening hours."
+  },
+  {
+    "name": "Aquarius Pool",
+    "category": "Facilities",
+    "deck": "Check official Arcadia deck plan",
+    "description": "Swimming pool; check opening hours."
+  }
+]
