@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "arcadia-cruise-companion",
+  "group": "cruise",
+  "refreshMinutes": 30
+}
